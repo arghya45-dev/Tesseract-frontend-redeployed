@@ -67,7 +67,7 @@ export const EVENTS_DATA = [
     date: "Mar 28, 2026",
     time: "10:00 AM",
     venue: "Multiple Venues",
-    isClosed: true,
+    isClosed: false,
     image: "https://images.pexels.com/photos/6779863/pexels-photo-6779863.jpeg",
     desc: "Three robotics events, one unstoppable package — navigate the Hell Road, dominate the soccer arena, and follow the line to glory.",
     participationMode: "team",
@@ -94,7 +94,7 @@ export const EVENTS_DATA = [
     date: "Mar 28, 2026",
     time: "10:00 AM",
     venue: "Open Air Theatre",
-    isClosed: true,
+    isClosed: false,
     image:
       "https://edu.ieee.org/in-amritaras/wp-content/uploads/sites/500/2025/02/image.png",
     desc: "Take on both weight classes in one unstoppable package — build and battle an 8 kg and a 15 kg combat robot in tournament-style arena fights. Double the metal, double the glory.",
@@ -146,7 +146,7 @@ export const EVENTS_DATA = [
     date: "Mar 28, 2026",
     time: "10:00 AM",
     venue: "Multiple Venues",
-    isClosed: true,
+    isClosed: false,
     image:
       "https://edu.ieee.org/in-amritaras/wp-content/uploads/sites/500/2025/02/image.png",
     desc: "Four events, one legend — combine the 8 kg arena brawl with obstacle navigation, robotic soccer, and line following in one power-packed combo.",
@@ -175,7 +175,7 @@ export const EVENTS_DATA = [
     date: "Mar 28, 2026",
     time: "10:00 AM",
     venue: "Multiple Venues",
-    isClosed: true,
+    isClosed: false,
     image:
       "https://edu.ieee.org/in-amritaras/wp-content/uploads/sites/500/2025/02/image.png",
     desc: "Step up to the heavyweight division — pair the 15 kg war machine with obstacle racing, bot soccer, and precision line following in one fierce combo.",
@@ -204,7 +204,7 @@ export const EVENTS_DATA = [
     date: "Mar 28, 2026",
     time: "10:00 AM",
     venue: "Multiple Venues",
-    isClosed: true,
+    isClosed: false,
     image:
       "https://edu.ieee.org/in-amritaras/wp-content/uploads/sites/500/2025/02/image.png",
     desc: "Go all-in on robotics — every single event under one roof. Two war machines, one obstacle course, a soccer arena, and a precision track. The ultimate combo for the ultimate team.",
@@ -234,7 +234,7 @@ export const EVENTS_DATA = [
     category: "Robotics",
     date: "Mar 28, 2026",
     time: "10:00 AM",
-    isClosed: true,
+    isClosed: false,
     venue: "Open Air Theatre",
     whatsappLink: "https://chat.whatsapp.com/Bamds7udD57AgdSwS22Gi1",
     image:
@@ -293,7 +293,7 @@ export const EVENTS_DATA = [
     date: "Mar 28, 2026",
     time: "10:00 AM",
     venue: "Open Air Theatre",
-    isClosed: true,
+    isClosed: false,
     whatsappLink: "https://chat.whatsapp.com/H4Nzuz8N8eL5k8e8VIDaqi",
     image:
       "https://edu.ieee.org/in-amritaras/wp-content/uploads/sites/500/2025/02/image.png",
@@ -351,7 +351,7 @@ export const EVENTS_DATA = [
     date: "Mar 28, 2026",
     time: "11:00 AM Onwards",
     venue: "Gaming Lab 1",
-    isClosed: true,
+    isClosed: false,
     whatsappLink: "https://chat.whatsapp.com/JMrabGgzHOA84Dh9SEnpoz?mode=gi_t",
     image: "https://images.pexels.com/photos/6779863/pexels-photo-6779863.jpeg",
     desc: "Trapped in the abyss, your only hope is to break free by reaching the gates of heaven. The path is the ruthless \u201cHell Road,\u201d where you must race at full speed, crash through dangers, and conquer every obstacle as fast as possible. Victory means escape \u2014 and peace at last.",
@@ -415,7 +415,7 @@ export const EVENTS_DATA = [
     date: "Mar 28, 2026",
     time: "11:00 AM Onwards",
     venue: "GNIT",
-    isClosed: true,
+    isClosed: false,
     whatsappLink: "https://chat.whatsapp.com/IYvC08c8fpDBP1C7UfDOqQ?mode=gi_t",
     image:
       "https://images.unsplash.com/photo-1589254047589-db4c14ad7779?q=80&w=1170&auto=format&fit=crop",
@@ -470,7 +470,7 @@ export const EVENTS_DATA = [
     date: "Mar 28, 2026",
     time: "11:00 AM Onwards",
     venue: "Gaming Lab 1",
-    isClosed: true,
+    isClosed: false,
     whatsappLink: "https://chat.whatsapp.com/CzqkqYAvg5j5O9mt2T8cw7?mode=gi_t",
     image:
       "https://images.unsplash.com/photo-1742239034927-0b4efe83ae5e?q=80&w=687&auto=format&fit=crop",
@@ -527,7 +527,7 @@ export const EVENTS_DATA = [
     date: "Mar 28, 2026",
     time: "11:00 AM Onwards",
     venue: "Gaming Lab 1",
-    isClosed: true,
+    isClosed: false,
     whatsappLink: "https://chat.whatsapp.com/HwIOib7H1oxK6xmdbvHL0z?mode=gi_t",
     image:
       "https://images.unsplash.com/photo-1666193183124-3f27c7800370?q=80&w=1040&auto=format&fit=crop",
@@ -583,7 +583,7 @@ export const EVENTS_DATA = [
     date: "Mar 28, 2026",
     time: "11:00 AM Onwards",
     venue: "Gaming Lab 1",
-    isClosed: true,
+    isClosed: false,
     whatsappLink: "https://chat.whatsapp.com/FPSmexTkuFxJumqAUKlcOY",
     image:
       "https://images.unsplash.com/photo-1742239034927-0b4efe83ae5e?q=80&w=687&auto=format&fit=crop",
@@ -642,7 +642,7 @@ export const EVENTS_DATA = [
     time: "11:00 AM Onwards",
     venue: "Gaming Lab 1",
     whatsappLink: "https://chat.whatsapp.com/Em1DjaKHbFt81QJIJbAPMT",
-    isClosed: true,
+    isClosed: false,
     image:
       "https://plus.unsplash.com/premium_photo-1723773736797-8d05f469c6df?q=80&w=1053&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     desc: "Welcome to Constructor() — a mini hackathon where innovation meets execution. Build creative, tech-driven solutions to real-world problems within a limited time. Collaborate, code, and compete as you transform ideas into impactful prototypes. Think beyond limits and shape the future.",
@@ -698,7 +698,7 @@ export const EVENTS_DATA = [
     date: "Mar 28, 2026",
     time: "09:00 AM",
     venue: "CSE Lab",
-    isClosed: true,
+    isClosed: false,
     whatsappLink: "https://chat.whatsapp.com/CefqfJJnxXuJ0UdeazmbSd",
     image:
       "https://plus.unsplash.com/premium_photo-1678566154673-a728037f3f00?q=80&w=702&auto=format&fit=crop",
@@ -744,7 +744,7 @@ export const EVENTS_DATA = [
     date: "Mar 28, 2026",
     time: "09:00 AM",
     venue: "CSE Lab",
-    isClosed: true,
+    isClosed: false,
     whatsappLink: "https://chat.whatsapp.com/B7H3ymhTmhWGM9gtmYqaZo",
     image:
       "https://images.unsplash.com/photo-1620825937374-87fc7d6bddc2?q=80&w=1631&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
@@ -809,7 +809,7 @@ export const EVENTS_DATA = [
     date: "Mar 28, 2026",
     time: "09:00 AM",
     venue: "CSE Lab",
-    isClosed: true,
+    isClosed: false,
     whatsappLink: "https://chat.whatsapp.com/LDLuMEnKbyX85IPGDgYvxS",
     image:
       "https://cdn1.epicgames.com/spt-assets/53ec4985296b4facbe3a8d8d019afba9/pubg-battlegrounds-19vwb.jpg?resize=1&w=780&h=438&quality=high",
@@ -860,7 +860,7 @@ export const EVENTS_DATA = [
     date: "Mar 28, 2026",
     time: "09:00 AM",
     venue: "CSE Lab",
-    isClosed: true,
+    isClosed: false,
     whatsappLink: "https://chat.whatsapp.com/CWWrc0pmItN32ARM1aAPu8",
     image:
       "https://images.unsplash.com/photo-1587368062478-e804f5e2a55a?q=80&w=1323&auto=format&fit=crop",
@@ -901,7 +901,7 @@ export const EVENTS_DATA = [
     date: "Mar 28, 2026",
     time: "09:00 AM",
     venue: "CSE Lab",
-    isClosed: true,
+    isClosed: false,
     whatsappLink: "https://chat.whatsapp.com/GxWUiKbQRUyLZ01dRbMxYw",
     image:
       "https://dl.dir.freefiremobile.com/common/web_event/official2.ff.garena.all/202210/aa959aa3d8790d3a44f7f20f16adfa01.jpg",
@@ -957,7 +957,7 @@ export const EVENTS_DATA = [
     date: "Mar 28, 2026",
     time: "09:00 AM",
     venue: "Game Room",
-    isClosed: true,
+    isClosed: false,
     whatsappLink: "https://chat.whatsapp.com/KHfJ0AKzYt7EsLRP77KOBm",
     image:
       "https://images.unsplash.com/photo-1620741211956-32977c8973be?q=80&w=880&auto=format&fit=crop",
@@ -1012,7 +1012,7 @@ export const EVENTS_DATA = [
     date: "Mar 28, 2026",
     time: "09:00 AM",
     venue: "Game Room",
-    isClosed: true,
+    isClosed: false,
     whatsappLink: "https://chat.whatsapp.com/GXvFCnGjO4l422BjTX8biQ?mode=gi_t",
     image:
       "https://images.unsplash.com/photo-1586165368502-1bad197a6461?q=80&w=1258&auto=format&fit=crop",
@@ -1068,7 +1068,7 @@ export const EVENTS_DATA = [
     date: "Mar 28, 2026",
     time: "09:00 AM",
     venue: "XY Room",
-    isClosed: true,
+    isClosed: false,
     whatsappLink: "https://chat.whatsapp.com/CV2TBtUrbsW1ikOaXXRKZA",
     image:
       "https://plus.unsplash.com/premium_photo-1698362818669-286ffb633a79?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
@@ -1123,7 +1123,7 @@ export const EVENTS_DATA = [
     date: "Mar 28, 2026",
     time: "09:00 AM",
     venue: "GNIT",
-    isClosed: true,
+    isClosed: false,
     whatsappLink: "https://chat.whatsapp.com/HzL2iRHW6USHXPUqkX2Yuw?mode=gi_t",
     image:
       "https://plus.unsplash.com/premium_photo-1661313651013-e1bee6b0e558?q=80&w=1170&auto=format&fit=crop",
@@ -1190,7 +1190,7 @@ export const EVENTS_DATA = [
     date: "Mar 28, 2026",
     time: "09:00 AM",
     venue: "XY Room",
-    isClosed: true,
+    isClosed: false,
     whatsappLink:
       "https://chat.whatsapp.com/B6tbdoUGaih8MCxNLjh6YB?mode=hqctsha",
     image:
@@ -1240,7 +1240,7 @@ export const EVENTS_DATA = [
     date: "Mar 28, 2026",
     time: "09:00 AM",
     venue: "XY Room",
-    isClosed: true,
+    isClosed: false,
     whatsappLink: "https://chat.whatsapp.com/CaE3AYPzRKZBcyVSy3rQRz",
     image:
       "https://images.unsplash.com/photo-1607462109225-6b64ae2dd3cb?q=80&w=687&auto=format&fit=crop",
